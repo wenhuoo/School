@@ -1,0 +1,180 @@
+c:\users\wujia\documents\visual studio 2015\Projects\School\School\bin\Debug\School.exe.config
+D:\文档\Visual Studio 2015\Projects\School\School\bin\Debug\School.exe.config
+C:\Users\Owen\OneDrive\Documents\VIsual Studio 2015 Project\School\School\bin\Debug\School.exe.config
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\bin\Debug\School.exe.config
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\obj\Debug\School.frmAdminDash.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\obj\Debug\School.frmCourses.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\obj\Debug\School.frmLogin.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\obj\Debug\School.frmMarks.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\obj\Debug\School.frmStudents.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\obj\Debug\School.frmTeacherDash.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\obj\Debug\School.frmTeachers.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\bin\Debug\School.exe
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\bin\Debug\School.pdb
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\bin\Debug\EntityFramework.dll
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\bin\Debug\EntityFramework.xml
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\obj\Debug\School.exe
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\obj\Debug\School.pdb
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\obj\Debug\School.frmAdmin.resources
+C:\Users\30021398\Downloads\School\School\bin\Debug\School.exe.config
+C:\Users\30021398\Downloads\School\School\obj\Debug\School.exe
+C:\Users\30021398\Downloads\School\School\obj\Debug\School.pdb
+C:\Users\30021398\Downloads\School\School\bin\Debug\School.exe
+C:\Users\30021398\Downloads\School\School\bin\Debug\School.pdb
+C:\Users\30021398\Downloads\School\School\bin\Debug\EntityFramework.dll
+C:\Users\30021398\Downloads\School\School\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\30021398\Downloads\School\School\bin\Debug\EntityFramework.xml
+C:\Users\30021398\Downloads\School\School\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\30021398\Downloads\School\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\30021398\Downloads\School\School\obj\Debug\School.frmAdmin.resources
+C:\Users\30021398\Downloads\School\School\obj\Debug\School.frmAdminDash.resources
+C:\Users\30021398\Downloads\School\School\obj\Debug\School.frmCourses.resources
+C:\Users\30021398\Downloads\School\School\obj\Debug\School.frmLogin.resources
+C:\Users\30021398\Downloads\School\School\obj\Debug\School.frmMarks.resources
+C:\Users\30021398\Downloads\School\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\30021398\Downloads\School\School\obj\Debug\School.frmStudents.resources
+C:\Users\30021398\Downloads\School\School\obj\Debug\School.frmTeacherDash.resources
+C:\Users\30021398\Downloads\School\School\obj\Debug\School.frmTeachers.resources
+C:\Users\30021398\Downloads\School\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\30021398\Downloads\School\School\bin\Debug\SchoolDB.mdf
+C:\Users\30021398\Downloads\School\School\bin\Debug\SchoolDB_log.ldf
+C:\Users\Owen\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\bin\Debug\School.exe.config
+C:\Users\Owen\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.exe
+C:\Users\Owen\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.pdb
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\bin\Debug\School.exe.config
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.exe
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.pdb
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\bin\Debug\SchoolDB.mdf
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\bin\Debug\SchoolDB_log.ldf
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\bin\Debug\School.exe
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\bin\Debug\School.pdb
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\bin\Debug\EntityFramework.dll
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\bin\Debug\EntityFramework.xml
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.frmAdmin.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.frmAdminDash.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.frmCourses.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.frmLogin.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.frmMarks.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.frmStudents.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.frmTeacherDash.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.frmTeachers.resources
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\30021398\Desktop\School\School\bin\Debug\SchoolDB.mdf
+C:\Users\30021398\Desktop\School\School\bin\Debug\SchoolDB_log.ldf
+C:\Users\30021398\Desktop\School\School\bin\Debug\School.exe.config
+C:\Users\30021398\Desktop\School\School\bin\Debug\School.exe
+C:\Users\30021398\Desktop\School\School\bin\Debug\School.pdb
+C:\Users\30021398\Desktop\School\School\bin\Debug\EntityFramework.dll
+C:\Users\30021398\Desktop\School\School\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\30021398\Desktop\School\School\bin\Debug\EntityFramework.xml
+C:\Users\30021398\Desktop\School\School\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\30021398\Desktop\School\School\obj\Debug\School.frmAdmin.resources
+C:\Users\30021398\Desktop\School\School\obj\Debug\School.frmAdminDash.resources
+C:\Users\30021398\Desktop\School\School\obj\Debug\School.frmCourses.resources
+C:\Users\30021398\Desktop\School\School\obj\Debug\School.frmLogin.resources
+C:\Users\30021398\Desktop\School\School\obj\Debug\School.frmMarks.resources
+C:\Users\30021398\Desktop\School\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\30021398\Desktop\School\School\obj\Debug\School.frmStudents.resources
+C:\Users\30021398\Desktop\School\School\obj\Debug\School.frmTeacherDash.resources
+C:\Users\30021398\Desktop\School\School\obj\Debug\School.frmTeachers.resources
+C:\Users\30021398\Desktop\School\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\30021398\Desktop\School\School\obj\Debug\School.exe
+C:\Users\30021398\Desktop\School\School\obj\Debug\School.pdb
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\bin\Debug\SchoolDB.mdf
+C:\Users\wujia\OneDrive\Documents\VIsual Studio 2015 Project\School\School\bin\Debug\SchoolDB_log.ldf
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\bin\Debug\School.exe.config
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\obj\Debug\School.exe
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\obj\Debug\School.pdb
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\bin\Debug\SchoolDB.mdf
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\bin\Debug\SchoolDB_log.ldf
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\bin\Debug\School.exe
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\bin\Debug\School.pdb
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\bin\Debug\EntityFramework.dll
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\bin\Debug\EntityFramework.xml
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\obj\Debug\School.frmAdmin.resources
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\obj\Debug\School.frmAdminDash.resources
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\obj\Debug\School.frmCourses.resources
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\obj\Debug\School.frmLogin.resources
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\obj\Debug\School.frmMarks.resources
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\obj\Debug\School.frmStudents.resources
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\obj\Debug\School.frmTeacherDash.resources
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\obj\Debug\School.frmTeachers.resources
+C:\Users\30021398\Downloads\30021398_cpr_assessment4\School\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\bin\Debug\School.exe.config
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\obj\Debug\School.exe
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\obj\Debug\School.pdb
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\bin\Debug\SchoolDB.mdf
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\bin\Debug\SchoolDB_log.ldf
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\bin\Debug\School.exe
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\bin\Debug\School.pdb
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\bin\Debug\EntityFramework.dll
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\bin\Debug\EntityFramework.xml
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\obj\Debug\School.frmAdmin.resources
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\obj\Debug\School.frmAdminDash.resources
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\obj\Debug\School.frmCourses.resources
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\obj\Debug\School.frmLogin.resources
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\obj\Debug\School.frmMarks.resources
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\obj\Debug\School.frmStudents.resources
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\obj\Debug\School.frmTeacherDash.resources
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\obj\Debug\School.frmTeachers.resources
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\30021398\SkyDrive\Documents\VIsual Studio 2015\School\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\bin\Debug\School.exe.config
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\obj\Debug\School.exe
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\obj\Debug\School.pdb
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\bin\Debug\SchoolDB.mdf
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\bin\Debug\SchoolDB_log.ldf
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\bin\Debug\School.exe
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\bin\Debug\School.pdb
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\bin\Debug\EntityFramework.dll
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\bin\Debug\EntityFramework.xml
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\obj\Debug\School.frmAdmin.resources
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\obj\Debug\School.frmAdminDash.resources
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\obj\Debug\School.frmCourses.resources
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\obj\Debug\School.frmLogin.resources
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\obj\Debug\School.frmMarks.resources
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\obj\Debug\School.frmStudents.resources
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\obj\Debug\School.frmTeacherDash.resources
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\obj\Debug\School.frmTeachers.resources
+C:\Users\30021398\Documents\Visual Studio 2013\Projects\School\School\obj\Debug\School.csproj.GenerateResource.Cache
+H:\Projects\School\School\bin\Debug\School.exe.config
+H:\Projects\School\School\obj\Debug\School.exe
+H:\Projects\School\School\obj\Debug\School.pdb
+H:\Projects\School\School\bin\Debug\SchoolDB.mdf
+H:\Projects\School\School\bin\Debug\SchoolDB_log.ldf
+H:\Projects\School\School\bin\Debug\School.exe
+H:\Projects\School\School\bin\Debug\School.pdb
+H:\Projects\School\School\bin\Debug\EntityFramework.dll
+H:\Projects\School\School\bin\Debug\EntityFramework.SqlServer.dll
+H:\Projects\School\School\bin\Debug\EntityFramework.xml
+H:\Projects\School\School\bin\Debug\EntityFramework.SqlServer.xml
+H:\Projects\School\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+H:\Projects\School\School\obj\Debug\School.frmAdmin.resources
+H:\Projects\School\School\obj\Debug\School.frmAdminDash.resources
+H:\Projects\School\School\obj\Debug\School.frmCourses.resources
+H:\Projects\School\School\obj\Debug\School.frmLogin.resources
+H:\Projects\School\School\obj\Debug\School.frmMarks.resources
+H:\Projects\School\School\obj\Debug\School.Properties.Resources.resources
+H:\Projects\School\School\obj\Debug\School.frmStudents.resources
+H:\Projects\School\School\obj\Debug\School.frmTeacherDash.resources
+H:\Projects\School\School\obj\Debug\School.frmTeachers.resources
+H:\Projects\School\School\obj\Debug\School.csproj.GenerateResource.Cache
